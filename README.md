@@ -10,7 +10,7 @@ The core idea of DivMin (please refer to Section 3 of the paper for details) is 
 - Anchor-only contrastive learning
 - Backpropagation-free prototype classifier
 
-These components instantiate the divergence minimization principle, which limits the upper bound of mutual information between available evidence and provenance variable exploitable by data auditors (please refer to Section 3 of the paper for details).
+These components instantiate the *divergence minimization* principle, which limits the upper bound of mutual information between available evidence and provenance variable exploitable by data auditors (please refer to Section 3 of the paper for details).
 
 This repository offers a compact and coherent demonstration of the effectiveness of DivMin’s effectiveness, using the MobileCLIP (s0) vision encoder and the DTD fine-grained texture classification dataset.
 
