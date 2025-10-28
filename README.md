@@ -13,7 +13,5 @@ The core idea of DivMin is to minimize output divergence through:
 
 These components instantiate the divergence minimization principle, which limits the upper bound of mutual information between available evidence and provenance variable exploitable by data auditors (Please refer to Section 3 of the paper for details).
 
-This repository offers a compact and coherent demonstration of the effectiveness of DivMin’s effectiveness, using:
-- The MobileCLIP (s0) vision encoder  
-- The DTD fine-grained texture classification dataset
+This repository offers a compact and coherent demonstration of the effectiveness of DivMin’s effectiveness, using the MobileCLIP (s0) vision encoder and the DTD fine-grained texture classification dataset.
 
