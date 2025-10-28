@@ -1,6 +1,6 @@
 # DivMin
 
-Code for the ECAI 2025 paper "Stealing Knowledge from Auditable Datasets".
+Core implementation for the paper [Stealing Knowledge from Auditable Datasets (ECAI 2025 Spotlight Poster)](https://ebooks.iospress.nl/volumearticle/75843).
 
 ## Overview
 
