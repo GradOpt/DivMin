@@ -1,6 +1,6 @@
 # DivMin
 
-Core implementation for the paper [Stealing Knowledge from Auditable Datasets (ECAI 2025 Spotlight Poster)](https://ebooks.iospress.nl/volumearticle/75843).
+Core implementation for the paper [Stealing Knowledge from Auditable Datasets (ECAI 2025 Spotlight)](https://ebooks.iospress.nl/volumearticle/75843).
 
 ## Overview
 
