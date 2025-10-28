@@ -4,7 +4,7 @@ Code for the ECAI 2025 paper "Stealing Knowledge from Auditable Datasets".
 
 ## Overview
 
-This repository provides a minimal implementation of the *DivMin* attack, which is designed to learn task-relevant knowledge from copyright-protected datasets while effectively suppressing provenance signals such as watermarks and fingerprints.
+This repository provides a minimal implementation of the *DivMin* attack, which is designed to learn task-relevant knowledge from copyright-protected datasets while suppressing provenance signals such as watermarks and fingerprints.
 
 The core idea of DivMin is to minimize output divergence through:
 - Anchor-only contrastive learning
